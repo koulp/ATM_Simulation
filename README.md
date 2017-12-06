@@ -1,4 +1,4 @@
-# ATM_Simulation using Chain of Responsibility Design Pattern
+# ATM Simulation using Chain of Responsibility Design Pattern
 
 An application that simulates the Backend logic of a cash dispensing Automatic Teller Machine (ATM). 
 
